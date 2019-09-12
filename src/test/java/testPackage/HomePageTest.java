@@ -23,7 +23,9 @@ public class HomePageTest {
 		Assert.assertTrue(homepage.getDressPage().isDisplayed()); 
 		Assert.assertTrue(homepage.getTshirtPage().isDisplayed()); 
 		System.out.println("verified Element presented .");
+		System.out.println("verified Element ddadfds.");
 		System.out.println("verified Element presented .");
+		System.out.println("verified Element Code added.");
 }
 	
 /*	@Test(enabled=false)
