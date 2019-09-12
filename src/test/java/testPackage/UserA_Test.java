@@ -12,7 +12,7 @@ public class HomePageTest {
 	
 	public HomePageTest() {   					//constructor
 		homepage = new HomePageObject();
-		bp = new BasePage();
+		bp = new BasePag();
 	}
 	//------------------------------------------------------------
 	   //verified Element presented or not.
