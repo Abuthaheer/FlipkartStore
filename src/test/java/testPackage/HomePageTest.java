@@ -25,6 +25,7 @@ public class HomePageTest {
 		System.out.println("verified Element presented .");
 		System.out.println("verified Element ddadfds.");
 		System.out.println("verified Element presented .");
+		System.out.println("verified Element Code added.");
 }
 	
 /*	@Test(enabled=false)
